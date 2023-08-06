@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5em;
+    border: solid 1px black;
+    width: 20em;
+    height: 10em;
+}
+
+.pokename{
+    border: solid  2px aquamarine;
+    margin-bottom: 2em;
+    border-radius: 1em;
+}
+
+.env{
+    background-color: aqua;
+    border: solid 1px ;
+    border-radius: 1em;
+}
